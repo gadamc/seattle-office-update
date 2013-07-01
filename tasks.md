@@ -1,12 +1,12 @@
-### Adam - price out items at IKEA
+* Adam - price out items at IKEA
 
-### Amaris - get estimates from two or three maid services
+* Amaris - get estimates from two or three maid services
 
-### Ben A. - talk to building management about changes to lock/doorbell
+* Ben A. - talk to building management about changes to lock/doorbell
  
-### Russell -
+* Russell -
 
-### Ben B. - 
+* Ben B. - 
 
-### David  - 
+* David  - 
 
